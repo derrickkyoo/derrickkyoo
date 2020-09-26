@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hello 
+
+I'm Derrick, a Software Engineer by trade, and my focus is on learning to build **community** and **meaningful** products utilizing code, no-code, and automations tools in the tech entrepreneurial space.
+
+Interests include SaaS, back-end architecture, and building user-friendly interfaces with a variety of tools in my toolkit.
+
+- 💖 Python, Django, JavaScript, Vue.js, Angular, TypeScript
+- 🔭 I’m currently working on Tinkerstack using Next.js
+- 🌱 No-code tools and automations, FTW!
+- 🚀 Let's start building
 
 <!--
 **derrickyoo/derrickyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
